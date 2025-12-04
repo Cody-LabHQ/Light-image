@@ -254,7 +254,7 @@ class MainWindow(QMainWindow):
 
     def start_processing(self, files):
         self.log_list.clear()
-        self.log_message(f"Initializing optimization for {len(files)} files...")
+        self.log_message(f"Initializing optimization for {len(files)} file(s)...")
         self.drop_area.setText("COMPRESSING...")
         self.drop_area.setStyleSheet("QLabel { border: 3px solid #00ADB5; background-color: #222222; color: #00ADB5; }")
         
