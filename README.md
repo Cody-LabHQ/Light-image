@@ -114,18 +114,6 @@ This ensures your source files are never overwritten.
 
 ---
 
-## 🔧 **Configuration**
-
-You can tweak values at the top of the script:
-
-```python
-MAX_DIMENSION = 1920
-JPEG_QUALITY = 60
-WEBP_QUALITY = 75
-```
-
----
-
 ## 🧩 **Code Structure Overview**
 
 ```
