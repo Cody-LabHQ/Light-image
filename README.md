@@ -4,7 +4,7 @@
 
 ### *High-Efficiency Image Size Reducer*
 
-![1](screenshots/1/png)
+![1](Screenshots/1.png)
 
 Light Image is a modern, dark-themed desktop application built with **Python + PyQt6** that allows users to **drag & drop images** and instantly compress them with **high-quality resizing, metadata stripping, and format-aware optimization**.
 
